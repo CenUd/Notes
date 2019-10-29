@@ -2,6 +2,8 @@
 
 **Tags:** echo; @echo off;
 
+[TOC]
+
 ## 1. echo
 
 The echo command is used to show messages, most commonly from within script or batch files.
