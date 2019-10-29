@@ -2,7 +2,6 @@
 
 **Tags:** echo; @echo off;
 
-[TOC]
 
 ## 1. echo
 
