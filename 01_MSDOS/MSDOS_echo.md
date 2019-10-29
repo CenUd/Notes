@@ -1,6 +1,6 @@
 # MSDOS_echo
 
-**Tags:** echo
+**Tags:** echo; @echo off;
 
 ## 1. echo
 
