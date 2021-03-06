@@ -12,13 +12,11 @@
 
 感谢在网络上分享教学的大佬们：Victor-Cloux、Krenz、金政基、抖抖村、Proko、Sinix Design、Marco Bucci、Bobby Chiu、Ctrl+Paint、moderndayjames、Andrew Tischler、BoroCG、Shal.E、angrymikko、Sam Does Arts、AKIHITO YOSHITOMI、Miss Jisu、Gal Shir ......
 
-
-
 # 绘画框架构建
 
 自己总结的绘画学习大概分为以下几个部分，仅供参考。
 
-1. [基础练习篇](https://www.jianshu.com/p/c00d55995a09)（绘画的基础知识以及针对这些知识的相关练习）
+1. 基础练习篇（绘画的基础知识以及针对这些知识的相关练习）
 2. 工具和技法篇（工具的使用方法，技法和工作流等）
 3. 自学与心态篇（关于自学的知识和学习时的心态）
 4. 个人练习篇（个人练习作品分享以及反思）
